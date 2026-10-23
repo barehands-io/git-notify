@@ -2,7 +2,7 @@ import SwiftUI
 
 @main struct GitNotifyApp: App {
     var body: some Scene {
-        WindowGroup {
+        MenuBarExtra("Git Notify", image: "MenuBarIcon") {
             ContentView()
         }
     }
