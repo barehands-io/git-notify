@@ -1,0 +1,9 @@
+{
+    "chat.mcp.access": "none",
+    "chat.mcp.autostart": "never",
+    "swiftformat.path": "/opt/homebrew/bin/swiftformat",
+    "[swift]": {
+        "editor.defaultFormatter": "vknabel.vscode-swiftformat",
+        "editor.formatOnSave": true
+    }
+}

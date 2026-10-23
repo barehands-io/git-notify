@@ -3,7 +3,7 @@ import Playgrounds
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, Bare!")
+        Text("Git Notify is running!")
             .padding()
     }
 }
